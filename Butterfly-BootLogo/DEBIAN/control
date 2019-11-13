@@ -1,0 +1,9 @@
+Package: me.shymemoriees.butterfly-bootlogo
+Name: Butterfly-Bootlogo
+Depends: mobilesubstrate, firmware(>=11)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Butterfly custom Bootlogo, HUGE THANKS TO @Flipp3rrr FOR THE IDEA.
+Maintainer: ShyMemoriees
+Author: ShyMemoriees
+Section: Bootlogos

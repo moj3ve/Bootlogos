@@ -1,0 +1,9 @@
+Package: me.shymemoriees.redsn0w-bootlogo
+Name: Redsn0w-BootLogo
+Depends: mobilesubstrate, firmware(>=11)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Rainbow custom Bootlogo, HUGE THANKS TO @Flipp3rrr FOR THE IDEA.
+Maintainer: ShyMemoriees
+Author: ShyMemoriees
+Section: Bootlogos

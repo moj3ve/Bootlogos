@@ -1,0 +1,9 @@
+Package: me.shymemoriees.ios6-bootlogo
+Name: iOS6-Bootlogo
+Depends: mobilesubstrate, firmware(>=11)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS6 custom Bootlogo, HUGE THANKS TO @Flipp3rrr FOR THE IDEA.
+Maintainer: ShyMemoriees
+Author: ShyMemoriees
+Section: Bootlogos

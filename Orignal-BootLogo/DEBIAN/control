@@ -1,0 +1,9 @@
+Package: me.shymemoriees.original-bootlogo
+Name: Original-Bootlogo
+Depends: mobilesubstrate, firmware(>=11)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Original Apple Bootlogo, HUGE THANKS TO @Flipp3rrr FOR THE IDEA.
+Maintainer: ShyMemoriees
+Author: ShyMemoriees
+Section: Bootlogos

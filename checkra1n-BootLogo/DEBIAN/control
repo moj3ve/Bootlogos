@@ -1,0 +1,9 @@
+Package: me.shymemoriees.checkra1n.bootlogo
+Name: checkra1n-Bootlogo
+Depends: mobilesubstrate, firmware(>=11)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: checkra1n custom Bootlogo, HUGE THANKS TO @Flipp3rrr FOR THE IDEA.
+Maintainer: ShyMemoriees
+Author: ShyMemoriees
+Section: Bootlogos
